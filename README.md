@@ -240,9 +240,3 @@ Function That Returns The Amount Of Indetifiers.
 
 ### Authors
 Maximillan Mwenda and Faith Apacha Nasambu
-
-------------
-
-### End
-
-Bamidele & Adefolaju @ ALX software engineering programme 2022.
